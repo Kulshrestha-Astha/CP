@@ -1,5 +1,5 @@
 link-https://codeforces.com/contest/1843/problem/A
-SUM IN BINARY TREE
+SASHA AND ARRAY COLOURING
 
 
 
